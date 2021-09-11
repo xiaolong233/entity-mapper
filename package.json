@@ -1,0 +1,28 @@
+{
+  "name": "@xiaolong233/entity-mapper",
+  "version": "1.0.0",
+  "description": "完成实体对象的映射处理，可以使用基础配置，把字段映射为下划线分隔、小驼峰等风格的命名，也可以自定义映射配置，实现特定映射操作。",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaolong233/entity-mapper.git"
+  },
+  "keywords": [
+    "entity",
+    "map",
+    "mapper",
+    "mapping"
+  ],
+  "author": "xiaolong233",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xiaolong233/entity-mapper/issues"
+  },
+  "homepage": "https://github.com/xiaolong233/entity-mapper#readme"
+}
